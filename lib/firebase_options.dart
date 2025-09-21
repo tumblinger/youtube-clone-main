@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBIxbazOVa9ezQVcCPP1EVRvXUB3hDP6yg',
-    appId: '1:635136225867:android:0470031d90a8b1c6c413ce',
-    messagingSenderId: '635136225867',
+    apiKey: 'AIz**********g',
+    appId: '1:635*******:android:0470031d9*****',
+    messagingSenderId: '635******',
     projectId: 'clone-main-95496',
     storageBucket: 'clone-main-95496.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDnqf9GN17cYu7Fa6ZH1zCVBEH6JK2E8xo',
-    appId: '1:635136225867:ios:62d19f6a37692af9c413ce',
-    messagingSenderId: '635136225867',
+    apiKey: 'AIza*********o',
+    appId: '1:635********:ios:6******e',
+    messagingSenderId: '635********7',
     projectId: 'clone-main-95496',
     storageBucket: 'clone-main-95496.firebasestorage.app',
     iosBundleId: 'com.example.youtubeClone',
